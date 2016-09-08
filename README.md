@@ -18,4 +18,10 @@ Our main focus will be in using the tools of NumPy and Pandas we have
 learned along the course. We will try to expand them by using SciPy's
 Statistics library and get some interesting results. 
 
-The results will be exposed in a Jupyter notebook.
+The results will be exposed in the 
+Jupyter notebook [baseball_data_analysis.ipynb](./baseball_data_analysis.ipynb).
+
+## Data Analysis and results
+
+So far we have performed the following data analysis:
+1. Compared mean salary from the two different leagues: NL and AL.
