@@ -24,4 +24,5 @@ Jupyter notebook [baseball_data_analysis.ipynb](./baseball_data_analysis.ipynb).
 ## Data Analysis and results
 
 So far we have performed the following data analysis:
+
 1. Compared mean salary from the two different leagues: NL and AL.
